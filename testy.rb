@@ -1,0 +1,3 @@
+a = :Message
+
+puts "#{a}"
